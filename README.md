@@ -56,25 +56,22 @@ This project was an exercise in duplicating a "404 page" from a Figma design fil
 - You can see the <a href="https://darrickfauvel.github.io/devchallenges-rwd-404-not-found/" target="_blank">project demo here</a>.
 - Hand coded by me with no copied solution code.
 - Developed using a mobile-first approach and applying a media query for the two-column desktop view.
+- All fonts, paddings, and margins converted from px to responsive rem/em units.
 - CSS Grid was used for the layout.
+- Added button focus/hover state.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
 - HTML
 - CSS
+- VS Code
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
