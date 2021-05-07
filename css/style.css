@@ -44,7 +44,6 @@ body {
   font-size: 2.4rem;
   font-style: normal;
   font-weight: 700;
-  letter-spacing: -0.08em;
   text-transform: uppercase;
 }
 /* END Header */
@@ -61,7 +60,6 @@ body {
 .main__content {
   grid-area: content;
   font-family: Space Mono;
-  letter-spacing: -0.035em;
 }
 .main__title {
   color: hsla(0, 0%, 20%, 1);
@@ -85,9 +83,13 @@ body {
   font-family: Space Mono;
   font-size: 1.4rem;
   font-weight: 700;
-  letter-spacing: -0.035em;
   padding: 1em 2em;
   text-transform: uppercase;
+  transition: background 0.5s;
+}
+.main__button:focus,
+.main__button:hover {
+  background: hsla(0, 0%, 40%, 1);
 }
 
 /* END Main */
