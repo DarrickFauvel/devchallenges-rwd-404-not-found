@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://darrickfauvel.github.io/devchallenges-rwd-404-not-found/">
+    <a href="https://darrickfauvel.github.io/devchallenges-rwd-404-not-found/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/DarrickFauvel/devchallenges-rwd-404-not-found">
+    <a href="https://github.com/DarrickFauvel/devchallenges-rwd-404-not-found" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
   </h3>
@@ -36,22 +36,34 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<table>
+   <tr>
+      <th>Desktop view</th>
+      <th>Mobile view</th>
+   </tr>
+   <tr>
+      <td>
+         <img src="https://github.com/DarrickFauvel/devchallenges-rwd-404-not-found/blob/main/screenshot-desktop.png" width="500px" />
+      </td>
+      <td>
+         <img src="https://github.com/DarrickFauvel/devchallenges-rwd-404-not-found/blob/main/screenshot-mobile.png" width="200px" />
+      </td>
+   </tr>
+</table>
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This project was an exercise in duplicating a "404 page" from a Figma design file, using only HTML & CSS techniques.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see the <a href="https://darrickfauvel.github.io/devchallenges-rwd-404-not-found/" target="_blank">project demo here</a>.
+- Hand coded by me with no copied solution code.
+- Developed using a mobile-first approach and applying a media query for the two-column desktop view.
+- CSS Grid was used for the layout.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
 
 ## Features
 
@@ -65,11 +77,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [darrickfauvel.com](https://www.darrickfauvel.com)
+- GitHub [@DarrickFauvel](https://github.com/DarrickFauvel)
